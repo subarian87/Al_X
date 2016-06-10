@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /css/
+Disallow: /fancybox/
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /jmosaicflow/
+Disallow: /jquery/
+Disallow: /js/
+Disallow: /kontaktyi.html
+Host: www.lhpk.somee.com
